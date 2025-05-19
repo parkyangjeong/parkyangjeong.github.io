@@ -1,2 +1,9 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+//예시
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+/* ➌  Apply it site‑wide */
+body {
+  font-family: "DM Serif Display", sans-serif;
+}
